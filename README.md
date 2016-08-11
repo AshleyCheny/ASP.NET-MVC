@@ -16,6 +16,5 @@ Applications based on ASP.NET MVC
 * [View to controller](http://web.csulb.edu/~pnguyen/cecs475/pdf/Viewtocontroller.pdf)
 * [DropdownList](http://web.csulb.edu/~pnguyen/cecs475/pdf/mvc/DropdownList.docx)
 * [htmlhelpers](http://web.csulb.edu/~pnguyen/cecs475/pdf/mvc/htmlhelpers.docx)
-* [Passing data in MVC](http://web.csulb.edu/~pnguyen/cecs475/pdf/mvc/PassingDataMVC.docx)
 * [Redirection in MVC](http://web.csulb.edu/~pnguyen/cecs475/pdf/mvc/redirectionMVC.docx)
 * [Form Collection in MVC](http://web.csulb.edu/~pnguyen/cecs475/pdf/mvc/formcollectionmvc.docx)
